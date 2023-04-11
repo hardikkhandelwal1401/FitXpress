@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="flProgressBar" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="tvTimer" type="id" />
+    <item name="flExerciseView" type="id" />
+    <item name="progressBarExercise" type="id" />
+    <item name="tvTimerExercise" type="id" />
+    <item name="tvExercise" type="id" />
+    <item name="ivImage" type="id" />
+    <item name="flRestView" type="id" />
+    <item name="tvExerciseName" type="id" />
+    <item name="tvUpcomingLabel" type="id" />
+    <item name="tvUpcomingExerciseName" type="id" />
+    <item name="rgUnits" type="id" />
+</resources>
